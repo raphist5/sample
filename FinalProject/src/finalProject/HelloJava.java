@@ -8,6 +8,9 @@ public class HelloJava {
 		
 		System.out.println("헬로보이");
 		
+						
+		System.out.println("헬로보이22222");
+	
 	}
 
 }
