@@ -6,10 +6,7 @@ public class HelloJava {
 		
 		
 		
-		System.out.println("헬로보이");
-		
-						
-		System.out.println("헬로보이22222");
+		System.out.println("test1 branch 입니다.");
 	
 	}
 
